@@ -4,7 +4,7 @@ _Realizado por Lucía Ramírez Monje 2ºAsir A_
 
 ## Comenzando 🚀
 
-_Proyecto compuesto por dos directorios principales, la [Documentacion del proyecto](https://github.com/ramirezmonjelucia2/Proyecto01/tree/main/doc) y la carpeta [src](https://github.com/ramirezmonjelucia2/Proyecto01/tree/main/src) donde se realizan las pruebas_
+_Proyecto compuesto por dos directorios principales, la [Documentacion del proyecto](https://github.com/ramirezmonjelucia2/Proyecto01/blob/main/doc/Documentacion%20sobre%20GitHub.pdf) y la carpeta [src](https://github.com/ramirezmonjelucia2/Proyecto01/tree/main/src) donde se realizan las pruebas_
 
 
 ### Documentación 📋
