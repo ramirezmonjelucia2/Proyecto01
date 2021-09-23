@@ -1,5 +1,5 @@
 {
-  "name": "Proyecto01",
+  "name": "proyecto01",
   "version": "1.0.0",
   "description": "_Realizado por Lucía Ramírez Monje 2ºAsir A_",
   "main": "index.js",
@@ -13,7 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/ramirezmonjelucia2/Proyecto01.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
