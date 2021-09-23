@@ -21,7 +21,7 @@ _¿Qué encontramos?_
 7.	PRÁCTICA
 8.	INSTALACIÓN ENTORNO NODE.JS  
 9.	INSTALACIÓN LENGUAJE TYPESCRIPT  
-
+10.	PROYECTO TYPESCRIPT  
 ```
 
 ## Ejecutando las pruebas ⚙️
@@ -31,7 +31,8 @@ _Las pruebas consisten en:_
 Primera práctica: Control de versiones
 Segunda Práctica: Uso del .gitignore
 Tercera práctica: Uso del clone
-Cuarta práctica: Entorno Node.js y Typescript
+Cuarta práctica: Uso del pull 
+Quinta práctica: Entorno Node.js y Typescript
 ```
 
 
